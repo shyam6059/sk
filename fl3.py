@@ -1,1 +1,3 @@
-b=600
+# retaind valu b=560 
+b=560
+
